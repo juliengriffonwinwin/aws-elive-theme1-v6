@@ -1,6 +1,5 @@
 <template>
   <main>
-    <Tutorial/>
     test julien
   </main>
 </template>
