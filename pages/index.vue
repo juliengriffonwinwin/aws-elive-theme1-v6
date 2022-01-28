@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+  <main>
+    <Tutorial/>
+    test julien
+  </main>
 </template>
 
 <script>
