@@ -1,2 +1,6 @@
 node_modules
 dist
+deploy.sh
+.nuxt
+.awspublish
+aws-credentials.json

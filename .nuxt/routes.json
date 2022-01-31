@@ -3,7 +3,6 @@
     "name": "index",
     "path": "/",
     "component": "/Users/julien/Desktop/aws/aws-elive-theme1-v6/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_7d714234"
+    "chunkName": "pages/index"
   }
 ]

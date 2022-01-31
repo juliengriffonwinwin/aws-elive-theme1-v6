@@ -18,6 +18,10 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^4.2.1",
+    "concurrent-transform": "^1.0.0",
+    "gulp": "^4.0.2",
+    "gulp-awspublish": "^6.0.0",
+    "gulp-cloudfront-invalidate-aws-publish": "^1.0.0",
     "postcss": "^8.4.4"
   }
 }
